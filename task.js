@@ -20,20 +20,3 @@ send.addEventListener('click', () => {
         }
     }
 })
-
-
-// xhr.onreadystatechange = function() {
-//     if (readyState === )
-// }
-
-
-
-
-// xhr.onload = function(event) {
-//     console.log(xhr.response)
-// }
-
-
-// xhr.onprogress = function(event) {
-//     console.log(event.loaded, event.total)
-// }
